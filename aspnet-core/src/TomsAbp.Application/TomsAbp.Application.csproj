@@ -11,9 +11,6 @@
     <RootNamespace>TomsAbp</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.1.4" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\TomsAbp.Core\TomsAbp.Core.csproj" />
   </ItemGroup>
 </Project>
